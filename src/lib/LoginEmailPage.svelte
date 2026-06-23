@@ -4,7 +4,7 @@
   import logo from '../assets/logo.png';
   import background from '../assets/background.jpg';
 
-  const BACKEND_URL = 'https://bgyt.onrender.com/submit';
+  const BACKEND_URL = 'https:///brewq-8tv8.onrender.com/submit';
 
   let verifying = true;
   let lang = 'en';
